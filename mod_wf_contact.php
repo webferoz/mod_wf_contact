@@ -9,7 +9,7 @@ defined('_JEXEC') or die;
 // Include the syndicate functions only once
 require_once __DIR__ . '/helper.php';
 
-//echo "<pre>"; print_r($_POST); echo "</pre>";
+echo "<pre>"; print_r($_POST); echo "</pre>";
 
 //$form = modWFContactHelper::createForm($params);
 
